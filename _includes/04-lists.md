@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+- [x] choice 1
+- [ ] choice 2
